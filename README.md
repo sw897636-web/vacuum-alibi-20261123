@@ -8,7 +8,7 @@ One funny one-line excuse a robot vacuum gives for missing a spot, written
 for the [make.fun](https://make.fun/bounty/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7)
 bounty "The Vacuum's Alibi: One Line, 200 Characters".
 
-> Per my cleaning log, that corner is now a wildlife reserve: the dust bunnies held a formal vote, and I lost 4-1.
+> Per my cleaning log, that corner is now a wildlife reserve: the dust bunnies held a formal vote, and I lost 4-1; the fourth vote was my own bumper sensor.
 
 ## How it works
 
